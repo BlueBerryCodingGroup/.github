@@ -1,5 +1,7 @@
 ![blueberry-big-title](https://github.com/user-attachments/assets/1aa8565b-df4f-47e6-8ee8-76282553d494)
+
 ---
+
 ## 🚀 Features
 ✅ **Optimized Performance** - Smoother gameplay with better FPS.  
 ✅ **Customizable UI** - Personalize your experience.  
@@ -8,7 +10,7 @@
 ✅ **Regular Updates** - Stay ahead with the latest Minecraft versions!  
 
 ## 🛠️ Requirements
-- Minecraft **1.21.4**  
+- Minecraft **1.7.10 – 1.21.5**  
 - Fabric Loader **latest version**  
 - Fabric API (Required)  
 
@@ -18,7 +20,7 @@
 
 ## 🤝 Contributing
 Pull requests are welcome! Feel free to fork the repo and submit improvements.  
-Join our [Discord](https://dsc.gg/blueberryclient) for discussions!  
+Join our [Discord](https://dc.blackdev.xyz) for discussions!  
 
 ## ⚖️ License
 This project is open-source under the [MIT License](LICENSE).  
